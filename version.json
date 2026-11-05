@@ -2,9 +2,9 @@
     "version":  "2.5.0",
     "title":  "Obrol LAN Enterprise Edition v2.5.0",
     "releaseDate":  "2026-11-05",
-    "changelog":  "• Pembaruan sistem instalasi resmi ke C:\\Program Files\\ObrolLAN (Full .DLL \u0026 Runtime)\n• Tanda Tangan Digital Resmi (Authenticode SHA-256 \u0026 Timestamp DigiCert)\n• Kelengkapan hak cipta (Copyright © 2026 Ayi Labs) \u0026 identitas berkas\n• Fitur Pemeriksaan dan Pembaruan Aplikasi otomatis lewat Internet via https://github.com/ayisusanto/ObrolLAN-Update\n• Tampilan Pengaturan Ringkas \u0026 Bersih tanpa link teknis\n• Tombol putar beranimasi pada pemindaian refresh jaringan\n• Penggantian ikon pengaturan standar industri (gerigi Material Design)\n• Sinkronisasi avatar profil komputer di seluruh jaringan lokal\n• Sinkronisasi hapus pesan dua arah pada semua klien",
+    "changelog":  "Pembaruan fitur multibahasa (Bahasa Indonesia \u0026 English), Digital Signature Authenticode \u0026 instalasi resmi.",
     "downloadUrl":  "https://github.com/ayisusanto/ObrolLAN-Update/raw/main/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  52301072,
-    "sha256":  "90b0f1af7562db59be35009b40221ddc414f3788aeacbbe47c467f8b079a2011",
+    "fileSizeBytes":  52299504,
+    "sha256":  "c52de46f9fa282443fba17650d36f09112056bd041316678230647895f5ca1bf",
     "mandatory":  false
 }

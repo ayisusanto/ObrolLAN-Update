@@ -1,10 +1,10 @@
 {
-    "version":  "2.5.0",
-    "title":  "Obrol LAN Enterprise Edition v2.5.0",
+    "version":  "2.5.1",
+    "title":  "Obrol LAN Enterprise Edition v2.5.1",
     "releaseDate":  "2026-11-05",
-    "changelog":  "Pembaruan fitur multibahasa (Bahasa Indonesia \u0026 English), Digital Signature Authenticode \u0026 instalasi resmi.",
+    "changelog":  "Pembaruan v2.5.1: Dukungan dwibahasa (Bahasa Indonesia \u0026 English), perbaikan duplikasi kontak, dan peningkatan performa.",
     "downloadUrl":  "https://github.com/ayisusanto/ObrolLAN-Update/raw/main/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  52299504,
-    "sha256":  "c52de46f9fa282443fba17650d36f09112056bd041316678230647895f5ca1bf",
+    "fileSizeBytes":  52316376,
+    "sha256":  "998259e2db1e5d8099183fd8d599342a2ff22b66a2e6c066e8add5f05716a2a5",
     "mandatory":  false
 }

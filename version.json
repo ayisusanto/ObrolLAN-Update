@@ -1,10 +1,10 @@
 {
-    "version":  "2.5.3",
-    "title":  "Obrol LAN Enterprise Edition v2.5.3",
+    "version":  "2.5.4",
+    "title":  "Obrol LAN Enterprise Edition v2.5.4",
     "releaseDate":  "2026-11-06",
-    "changelog":  "Kompatibilitas penuh Windows 7 SP1 (Universal C Runtime \u0026 Visual C++ bundling), nomor versi dinamis di Pengaturan, dan peningkatan stabilitas jaringan lokal.",
+    "changelog":  "Pembaruan stabilitas kernel Windows 7 SP1 (KB3063858, KB2999226, Software Rendering fallback, dan W^X runtime fix).",
     "downloadUrl":  "https://github.com/ayisusanto/ObrolLAN-Update/raw/main/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  77042336,
-    "sha256":  "77d7bbe65d1533fa2844ca6c02105fc1921fba8f2a14a86359376d9c403df954",
+    "fileSizeBytes":  78849184,
+    "sha256":  "6907f1bc2ccc95b14780b90dbbb8f7c52de3fc7188d1813c7890735898404159",
     "mandatory":  false
 }

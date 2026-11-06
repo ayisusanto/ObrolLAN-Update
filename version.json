@@ -2,9 +2,9 @@
     "version":  "2.5.2",
     "title":  "Obrol LAN Enterprise Edition v2.5.2",
     "releaseDate":  "2026-11-06",
-    "changelog":  "Peningkatan performa kilat refresh online (\u003c100ms), perbaikan akurasi IP jaringan LAN fisik, pencegahan kontak duplikat, dan perbaikan chat broadcast.",
+    "changelog":  "Pembaruan tampilan versi di pengaturan dan peningkatan performa.",
     "downloadUrl":  "https://github.com/ayisusanto/ObrolLAN-Update/raw/main/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  52307784,
-    "sha256":  "4ebd169dbf39788843c8e96022a6c3b6f016ab37bacfea2101af86e8055860bf",
+    "fileSizeBytes":  52308240,
+    "sha256":  "425a528f302f398d02d86c603cb80b21e1f14783ffd07f9e81e0a151fab1bd39",
     "mandatory":  false
 }

@@ -4,11 +4,11 @@
 
 ---
 
-## 📦 Berkas Rilis Saat Ini (v2.5.4)
+## 📦 Berkas Rilis Saat Ini (v2.5.5)
 
 | Berkas | Deskripsi | Ukuran | Checksum SHA-256 |
 | :--- | :--- | :---: | :--- |
-| **`ObrolLAN_Setup.exe`** | Installer resmi Windows (C:\Program Files\ObrolLAN) | ~75.2 MB | `6907f1bc2ccc95b14780b90dbbb8f7c52de3fc7188d1813c7890735898404159` |
+| **`ObrolLAN_Setup.exe`** | Installer resmi Windows (C:\Program Files\ObrolLAN) | ~75.2 MB | `cbfd4186565b2fd6a46d9296c2e993509d9f9de0e3fd196eb0deca824dd28d94` |
 | **`version.json`** | Manifest versi aktif untuk auto-update klien | ~1 KB | - |
 
 ---

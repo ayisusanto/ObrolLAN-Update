@@ -3,7 +3,7 @@
     "title":  "Obrol LAN Enterprise Edition v2.5.5",
     "releaseDate":  "2026-11-06",
     "changelog":  "Penambahan kolom Posisi/Jabatan, perapian tampilan tanpa IP di depan, informasi IP di Pengaturan, dan optimasi kompatibilitas Windows 7.",
-    "downloadUrl":  "https://github.com/ayisusanto/ObrolLAN-Update/raw/main/ObrolLAN_Setup.exe",
+    "downloadUrl":  "https://pub-80cc6091cc8d488187970c27d9479c3b.r2.dev/ObrolLAN_Setup.exe",
     "fileSizeBytes":  78864192,
     "sha256":  "cbfd4186565b2fd6a46d9296c2e993509d9f9de0e3fd196eb0deca824dd28d94",
     "mandatory":  false

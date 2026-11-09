@@ -1,10 +1,10 @@
 {
-    "version":  "2.5.5",
-    "title":  "Obrol LAN Enterprise Edition v2.5.5",
-    "releaseDate":  "2026-11-06",
-    "changelog":  "Penambahan kolom Posisi/Jabatan, perapian tampilan tanpa IP di depan, informasi IP di Pengaturan, dan optimasi kompatibilitas Windows 7.",
+    "version":  "2.5.6",
+    "title":  "Obrol LAN Enterprise Edition v2.5.6",
+    "releaseDate":  "2026-11-09",
+    "changelog":  "Kompatibilitas penuh Windows 7 (UCRT \u0026 Kernel32 runtime), fitur lisensi komersial \u0026 masa uji coba gratis 15 hari.",
     "downloadUrl":  "https://pub-80cc6091cc8d488187970c27d9479c3b.r2.dev/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  78864192,
-    "sha256":  "cbfd4186565b2fd6a46d9296c2e993509d9f9de0e3fd196eb0deca824dd28d94",
+    "fileSizeBytes":  78743184,
+    "sha256":  "a2debc2c8cefbd5d9739d71c15d923b9e4d235bcba537430d1ba50dd0cf7c7b1",
     "mandatory":  false
 }

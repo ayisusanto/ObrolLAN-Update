@@ -1,10 +1,10 @@
 {
-    "version":  "2.5.10",
-    "title":  "Obrol LAN Enterprise Edition v2.5.10",
+    "version":  "2.5.11",
+    "title":  "Obrol LAN Enterprise Edition v2.5.11",
     "releaseDate":  "2026-11-12",
-    "changelog":  "Perbaikan klik \u0026 ukuran sedang 28 stiker berwarna untuk semua chat, penyamaan ikon persegi Saluran Siaran Umum dan penyesuaian ukuran font, tab Pengaturan sejajar 1 baris, serta peningkatan ketajaman HD ikon aplikasi.",
-    "downloadUrl":  "https://github.com/ayisusanto/ObrolLAN-Update/raw/main/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  80940944,
-    "sha256":  "df362fc06e4b748b3b170753960ca42f568bd389b3c9d6c4ebffaa189e00c98a",
+    "changelog":  "Font Open Sans Medium + ClearType tajam \u0026 animasi 60fps halus, 44 stiker \u0026 emotikon kecil rapi tanpa terpotong di semua chat \u0026 riwayat, perbaikan klik kanan Salin/Hapus pesan, perbaikan trial 30 hari \u0026 Pengaturan, logo Saluran Siaran Umum bulat modern, serta penyesuaian istilah Riwayat Chat/File.",
+    "downloadUrl":  "https://pub-80cc6091cc8d488187970c27d9479c3b.r2.dev/ObrolLAN_Setup.exe",
+    "fileSizeBytes":  81013220,
+    "sha256":  "77a97d19dd3640f48557c7583644d008401fcbbc0fcc43eed721871f3f50e27d",
     "mandatory":  false
 }

@@ -1,10 +1,10 @@
 {
-    "version":  "2.5.9",
-    "title":  "Obrol LAN Enterprise Edition v2.5.9",
+    "version":  "2.5.10",
+    "title":  "Obrol LAN Enterprise Edition v2.5.10",
     "releaseDate":  "2026-11-12",
-    "changelog":  "Pembaruan seluruh ikon aplikasi lebih modern \u0026 segar, fitur stiker berwarna ala WhatsApp di obrolan, serta pengecekan update otomatis real-time tiap 5 menit anti-cache.",
+    "changelog":  "Perbaikan klik \u0026 ukuran sedang 28 stiker berwarna untuk semua chat, penyamaan ikon persegi Saluran Siaran Umum dan penyesuaian ukuran font, tab Pengaturan sejajar 1 baris, serta peningkatan ketajaman HD ikon aplikasi.",
     "downloadUrl":  "https://github.com/ayisusanto/ObrolLAN-Update/raw/main/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  80945992,
-    "sha256":  "4b214e79df0e9137e9cef6e3986b793e2ca275fe4798e4ca105b95d9e17f2ca4",
+    "fileSizeBytes":  80940944,
+    "sha256":  "df362fc06e4b748b3b170753960ca42f568bd389b3c9d6c4ebffaa189e00c98a",
     "mandatory":  false
 }

@@ -1,10 +1,10 @@
 {
-    "version":  "2.5.8",
-    "title":  "Obrol LAN Enterprise Edition v2.5.8",
+    "version":  "2.5.9",
+    "title":  "Obrol LAN Enterprise Edition v2.5.9",
     "releaseDate":  "2026-11-12",
-    "changelog":  "History chat gabungan semua chat dengan backup \u0026 restore, history transfer file lengkap dengan akses langsung ke folder, link klik Ayi Labs ke ayi.web.id, dan tampilan kotak ObrolLAN lebih ringkas tidak menutupi layar penuh.",
+    "changelog":  "Pembaruan seluruh ikon aplikasi lebih modern \u0026 segar, fitur stiker berwarna ala WhatsApp di obrolan, serta pengecekan update otomatis real-time tiap 5 menit anti-cache.",
     "downloadUrl":  "https://github.com/ayisusanto/ObrolLAN-Update/raw/main/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  81064696,
-    "sha256":  "9202760bf79bc5d91647f22dba488e3c6d83649c028ca4222b3c3b61af89b788",
+    "fileSizeBytes":  80945992,
+    "sha256":  "4b214e79df0e9137e9cef6e3986b793e2ca275fe4798e4ca105b95d9e17f2ca4",
     "mandatory":  false
 }

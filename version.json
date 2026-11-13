@@ -1,10 +1,10 @@
 {
-    "version":  "2.5.11",
-    "title":  "Obrol LAN Enterprise Edition v2.5.11",
-    "releaseDate":  "2026-11-12",
-    "changelog":  "Font Open Sans Medium + ClearType tajam \u0026 animasi 60fps halus, 44 stiker \u0026 emotikon kecil rapi tanpa terpotong di semua chat \u0026 riwayat, perbaikan klik kanan Salin/Hapus pesan, perbaikan trial 30 hari \u0026 Pengaturan, logo Saluran Siaran Umum bulat modern, serta penyesuaian istilah Riwayat Chat/File.",
+    "version":  "2.5.12",
+    "title":  "Obrol LAN Enterprise Edition v2.5.12",
+    "releaseDate":  "2026-11-13",
+    "changelog":  "Logo baru full \u0026 latar belakang putih di mode gelap, perbaikan font status online (hitam di mode terang, putih di mode gelap), seluruh menu Pengaturan \u0026 Riwayat Chat/File mendukung Dark Mode, perbaikan nama pilihan bahasa, 20 avatar baru berwarna-warni, serta kotak divisi abu-abu elegan di chat.",
     "downloadUrl":  "https://pub-80cc6091cc8d488187970c27d9479c3b.r2.dev/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  81013220,
-    "sha256":  "77a97d19dd3640f48557c7583644d008401fcbbc0fcc43eed721871f3f50e27d",
+    "fileSizeBytes":  83483256,
+    "sha256":  "a2b6a383e6b55cce87edead0ec6e297fb4bc46366d44b9e843f23f18fa743245",
     "mandatory":  false
 }

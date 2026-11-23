@@ -1,10 +1,10 @@
 {
-    "version":  "2.5.12",
-    "title":  "Obrol LAN Enterprise Edition v2.5.12",
-    "releaseDate":  "2026-11-13",
-    "changelog":  "Logo baru full \u0026 latar belakang putih di mode gelap, perbaikan font status online (hitam di mode terang, putih di mode gelap), seluruh menu Pengaturan \u0026 Riwayat Chat/File mendukung Dark Mode, perbaikan nama pilihan bahasa, 20 avatar baru berwarna-warni, serta kotak divisi abu-abu elegan di chat.",
+    "version":  "2.5.13",
+    "title":  "Obrol LAN Enterprise Edition v2.5.13",
+    "releaseDate":  "2026-11-23",
+    "changelog":  "Kompatibilitas Windows 7, auto-accept transfer berkas, pencarian PC aktif real-time, preview gambar full window, dan pengiriman pesan offline terjamin.",
     "downloadUrl":  "https://pub-80cc6091cc8d488187970c27d9479c3b.r2.dev/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  83483256,
-    "sha256":  "a2b6a383e6b55cce87edead0ec6e297fb4bc46366d44b9e843f23f18fa743245",
+    "fileSizeBytes":  84109480,
+    "sha256":  "c205e1d9b98ae54f6d3c9356a487715e5ed2b919da9bf8c4494286e9e351fbe4",
     "mandatory":  false
 }

@@ -1,10 +1,10 @@
 {
-    "version":  "2.5.13",
-    "title":  "Obrol LAN Enterprise Edition v2.5.13",
-    "releaseDate":  "2026-11-23",
-    "changelog":  "Kompatibilitas Windows 7, auto-accept transfer berkas, pencarian PC aktif real-time, preview gambar full window, dan pengiriman pesan offline terjamin.",
+    "version":  "2.5.14",
+    "title":  "Obrol LAN Enterprise Edition v2.5.14",
+    "releaseDate":  "2026-11-25",
+    "changelog":  "Pembaruan TelemetryService terpasang, antrean pengiriman berkas \u0026 foto dengan auto-retry otomatis, dan optimasi deteksi jaringan LAN tanpa delay.",
     "downloadUrl":  "https://pub-80cc6091cc8d488187970c27d9479c3b.r2.dev/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  84109480,
-    "sha256":  "c205e1d9b98ae54f6d3c9356a487715e5ed2b919da9bf8c4494286e9e351fbe4",
+    "fileSizeBytes":  84101544,
+    "sha256":  "ed2aa1e5516787241f5ec7bfca382a7754ae341c813f9ff162e9219c131447f7",
     "mandatory":  false
 }

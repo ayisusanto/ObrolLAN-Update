@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "d:\App\Obrol LAN\tools\LicenseGenerator\New-ObrolLicense.ps1" -CustomerName "PT BPRS Cahaya Hidup" -Plan "Enterprise" -MaxSeats 50 -DurationMonths 12

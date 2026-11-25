@@ -2,9 +2,9 @@
     "version":  "2.5.14",
     "title":  "Obrol LAN Enterprise Edition v2.5.14",
     "releaseDate":  "2026-11-25",
-    "changelog":  "Pembaruan TelemetryService, footer brand Ayi Labs © 2026 ke ayi.web.id, logo profesional pada installer, dan stabilitas transfer.",
+    "changelog":  "Pembaruan TelemetryService, logo resmi Obrol LAN pada installer, footer brand Ayi Labs © 2026 ke ayi.web.id, dan stabilitas jaringan.",
     "downloadUrl":  "https://pub-80cc6091cc8d488187970c27d9479c3b.r2.dev/ObrolLAN_Setup.exe",
-    "fileSizeBytes":  84114040,
-    "sha256":  "93e94bccbfe86667e1f5d19f63413e29209251c16bbfa844ad3390d09287a494",
+    "fileSizeBytes":  83193680,
+    "sha256":  "4290a20fb26bd46271cb58b6905ed01293743fb58181bf96227c9b75b8a4eb68",
     "mandatory":  false
 }
